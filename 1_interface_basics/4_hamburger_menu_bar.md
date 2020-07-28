@@ -29,3 +29,8 @@ Pixel preview - if we rotate the image it will show us that on a device it will 
 ## vector
 
 when we use tools like pen it helps us working with nodes, joining nodes etc
+
+## help
+
+- search - we can simply find a option we need here!
+- developer tools!
