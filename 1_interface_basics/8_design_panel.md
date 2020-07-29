@@ -17,3 +17,15 @@ We can also add a image as a fill here
 If we have a image as a fill we have a lot of options like exposure, contrast etc
 
 Holding shift we can select multiple items. On top of pane we have icons for diffrent aligments of those items
+
+## text
+
+- we can decide to which portion of the bounding box the text will clip
+- letter spacing and line height
+
+## export
+
+each object can be exported
+We can decide on resolution and even export one file in multiple resolutions
+
+On top right we can export all files in bulk
